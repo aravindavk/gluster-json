@@ -1,0 +1,16 @@
+.dub
+docs.json
+__dummy.html
+docs/
+/gluster-json
+gluster-json.so
+gluster-json.dylib
+gluster-json.dll
+gluster-json.a
+gluster-json.lib
+gluster-json-test-*
+*.exe
+*.pdb
+*.o
+*.obj
+*.lst

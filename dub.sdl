@@ -1,0 +1,6 @@
+name "gluster-json"
+description "Gluster CLI with JSON output"
+authors "Aravinda VK <mail@aravindavk.in>"
+copyright "Copyright © 2024, Aravinda VK <mail@aravindavk.in>"
+license "Apache-2.0"
+dependency "glustercli" version="~>0.1.2"
