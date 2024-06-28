@@ -1,0 +1,12 @@
+{
+	"fileVersion": 1,
+	"versions": {
+		"glustercli": {"path":"../glustercli-d"},
+		"numem": "0.8.3",
+		"silly": "1.1.1",
+		"stdx-allocator": "2.77.5",
+		"vibe-container": "1.3.1",
+		"vibe-serialization": "1.0.4",
+		"yxml": "0.1.3"
+	}
+}
